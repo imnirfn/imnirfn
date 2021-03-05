@@ -9,4 +9,4 @@ an explorer.
 ![](https://img.shields.io/github/followers/imnirfn?style=for-the-badge&logo=appveyor)
  
 ![s3ns3](http://www.hackthebox.eu/badge/image/25840)
-![s3ns3](https://tryhackme.com/badge/5105)
+![s3ns3](https://tryhackme-badges.s3.amazonaws.com/s3ns3.png)
