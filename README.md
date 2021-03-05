@@ -1,6 +1,5 @@
-### Hi 👋 
 
-an explorer.
+an eternal student, an explorer.
 
 <b>To connect with me<b>
   
