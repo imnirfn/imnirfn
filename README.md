@@ -17,6 +17,7 @@ an eternal student, an explorer.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imnirfn&hide_border=true&theme=nord" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnirfn&count_private=true&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnirfn&layout=compact&hide_border=true&t&card_width=250&theme=nord" height="195rem" />
 </p>
 
